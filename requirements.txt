@@ -1,0 +1,8 @@
+1. python -m venv .venv
+2. .venv\Scripts\activate
+3. Click Ctrl+Shift+P and type Python: Select Interpreter
+4. Locate your interprter in the Scripts/python.exe
+5. Press Ctrl+Shift+P → type Jupyter: Create New Notebook
+   Or open an existing .ipynb file.
+6. In the top-right corner of the notebook, select the kernel that matches your .venv interpreter.
+   It should look like .venv (Python 3.13)
