@@ -6,3 +6,14 @@
    Or open an existing .ipynb file.
 6. In the top-right corner of the notebook, select the kernel that matches your .venv interpreter.
    It should look like .venv (Python 3.13)
+
+new set of commands
+1. cd "C:\AI Equity Research Analyst project\AI_Equity_Research_Analyst_Project"
+2. py -3.11 -m venv .venv311
+3. .venv311\Scripts\activate
+3. Click Ctrl+Shift+P and type Python: Select Interpreter
+4. Locate your interprter in the .venv311\Scripts\python.exe
+5. Press Ctrl+Shift+P → type Jupyter: Create New Notebook
+   Or open an existing .ipynb file.
+6. In the top-right corner of the notebook, select the kernel that matches your .venv interpreter.
+   It should look like .venv (Python 3.11.9)

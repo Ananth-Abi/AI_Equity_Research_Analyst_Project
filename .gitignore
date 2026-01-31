@@ -1,6 +1,9 @@
 # Created by venv; see https://docs.python.org/3/library/venv.html
 # Ignore virtual environment
+.venv311/
 .venv/
+.env
+./notebooks/Equity_Analyst.ipynb_checkpoints
 
 # Ignore Python cache
 __pycache__/
