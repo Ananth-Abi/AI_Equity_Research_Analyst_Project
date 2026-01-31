@@ -17,3 +17,7 @@ new set of commands
    Or open an existing .ipynb file.
 6. In the top-right corner of the notebook, select the kernel that matches your .venv interpreter.
    It should look like .venv (Python 3.11.9)
+
+7. create .env file with GOOGLE_API_KEY=your_gemini_api_key
+8. streamlit run app.py
+
